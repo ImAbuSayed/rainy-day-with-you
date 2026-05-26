@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Rainy Day With You
+
+This log tracks the cryptographic history and versioning for the song **Rainy Day With You** (rainy-day-with-you).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-26T15:41:55.352481 | `v1` | `35d5195b225530be15c37c0d6fc77eef7001dfbefb2405ba59e538efe65355f7` | `0cd4a608c9ee1ea91cbc0d366d72e3f8cf12f190fd9ec6ed5c0909198c5d7761` | `2026-05-26_rainy-day-with-you-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
