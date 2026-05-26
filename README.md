@@ -15,7 +15,7 @@
 | **Written On** | May 25, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/rainy-day-with-you/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Rainy Day With You](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/rainy-day-with-you/) |
+| **Get License** | [Secure Licensing Rights for Rainy Day With You](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/rainy-day-with-you/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> The midnight rain is tapping on the glass
+> We're getting closer while the shadows pass
+> Your fingertips are tracing down my spine
+> Tonight I'm going to make you completely mine
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
